@@ -10,11 +10,14 @@ Here is a little step by step on how to get these setup. It is very easy and sho
 
 If all that goes off without a hitch, congratulations you are ready to enjoy playing on our server at maximum capacity!
 
-### Current Mod List
+## Current Mod List
 
 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+
 [Xaero's Mini Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files)
+
 [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)
+
 [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric/files)
 
 
